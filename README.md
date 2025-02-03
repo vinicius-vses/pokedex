@@ -11,19 +11,8 @@ Este é um projeto de Pokédex web desenvolvido com **HTML, CSS e JavaScript**, 
 
 ## 📦 Funcionalidades
 
-- Buscar Pokémons pelo nome ou ID
 - Exibir imagem, nome, tipo e habilidades do Pokémon
 - Interface responsiva para diferentes tamanhos de tela
-
-## 📂 Estrutura do Projeto
-
-```markdown
-/
-├── index.html  # Página principal
-├── style.css   # Estilos da aplicação
-├── script.js   # Lógica da aplicação e consumo da API
-└── README.md   # Documentação do projeto
-```
 
 ## 🔧 Como Usar
 
