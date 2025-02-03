@@ -18,11 +18,7 @@ Este é um projeto de Pokédex web desenvolvido com **HTML, CSS e JavaScript**, 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/vinicius-vses/pokedex.git
    ```
-2. Acesse a pasta do projeto:
-   ```sh
-   cd nome-do-repositorio
-   ```
-3. Abra o `index.html` no navegador ou utilize uma extensão como "Live Server" no VS Code.
+2. Abra o `index.html` no navegador ou utilize uma extensão como "Live Server" no VS Code.
 
